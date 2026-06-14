@@ -10,3 +10,5 @@ Our code utilizes several MATLAB functions for Tikhonov regularization and L-cur
 These functions are distributed under the BSD 3-Clause License. A copy of this license is provided in the `LICENSE_Regularization_Tools.txt` file included in this repository. We sincerely thank Prof. Hansen for making these foundational tools available to the community.
 # 5.Maintainers
 This project is owned and managed by Dong-Hao Han and Xing-Chang Wei from Zhejiang University, China.
+# 6. License
+The original code in this repository is licensed under the MIT License - see the `LICENSE` file for details. 
